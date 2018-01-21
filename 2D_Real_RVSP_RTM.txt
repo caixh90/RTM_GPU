@@ -1,0 +1,56 @@
+The Maximum Length Of Operator
+10
+The Minimum Length Of Operator
+2
+The Hyrid Absorbing Boundary Width
+10
+Dominant Frequency
+15.0
+Frequency parameter for optimal operator
+31.0
+Interval Of Frequency
+1.0
+Azimuth Of The Plane Wave Divide Into The Number
+1000
+Dispersion Value
+1.0e-5
+Velocity Interval
+1
+LSM-0,TEM-1
+0
+v-1 to reverse velocity
+0
+white coefficient
+1.0e-4
+Intervel of Space in Z
+20.0
+Intervel of Time
+0.001
+Normalization-1,NoNormlization-0
+1
+Compensate-1,Noncompensate-0
+1
+Number of Smooth
+0
+white  coefficient for phase correction
+1.0e-3
+angle of phase correction
+90
+Trace Begin
+0
+Trace End
+676
+Depth Begin
+0
+Depth End
+210
+The loacation of Output seismic data
+/home/cxh/Project/6th_OnDaqing/20151110/04-SaltModel/2D/Output/
+The location of the Output Velocity data
+/home/cxh/Project/6th_OnDaqing/20151110/04-SaltModel/2D/Output/salt2d.dat
+Depth of Receiver parameter
+/home/cxh/Project/6th_OnDaqing/20151110/04-SaltModel/2D/Output/Depth_Of_Receiver.txt
+Output Parameter
+/home/cxh/Project/6th_OnDaqing/20151110/04-SaltModel/2D/Output/Parameter.txt
+Final migration result
+/home/cxh/Project/6th_OnDaqing/20151110/04-SaltModel/2D/
